@@ -47,7 +47,7 @@ test@tempmail.com
 
 Run the validator:
 
-bashpython email_validator.py
+bashpython email_validator_pro.py
 
 Check results - Open output_emails_checked.csv
 
