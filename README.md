@@ -175,7 +175,7 @@ Script crashes
 Solution: Results are auto-saved every 50 emails. Just re-run to continue
 False positives (good emails marked invalid)
 Solution: Check smtp_details column - if it says "Policy/Blacklist", the email might be valid
-🤝 Contributing
+Contributing:
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 Fork the repository
@@ -186,26 +186,15 @@ Open a Pull Request
 
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-⚠️ Disclaimer
-This tool is for legitimate email list validation only. Please:
 
-✅ Only validate emails you have permission to check
-✅ Respect email servers' rate limits
-✅ Follow anti-spam laws (CAN-SPAM, GDPR)
-❌ Don't use for spam or harassment
-❌ Don't overload mail servers
-
-📞 Support
-
+📞 Support:
 Issues: GitHub Issues
 Discussions: GitHub Discussions
 
-🙏 Acknowledgments
+Acknowledgments
 
 Built with Python 3.7+
 Uses dnspython for DNS lookups
 SMTP protocol implementation using Python's smtplib
 
-
-Made with ❤️ for email marketers and developers
-Star ⭐ this repository if you find it helpful!
+Star this repository if you find it helpful!
